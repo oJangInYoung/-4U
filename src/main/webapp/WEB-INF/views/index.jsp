@@ -9,11 +9,11 @@
 <html>
   <head>
     <title>$Title$</title>
-      <script type="text/javascript" src="/views/js/jquery-3.6.0.js"></script>
-      <script type="text/javascript" src="/views/js/header.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-      <link href="/views/css/header.css" rel="stylesheet"/>
-      <link href="/views/css/footer.css" rel="stylesheet"/>
+      <script type="text/javascript" src="js/jquery.js"></script>
+      <script type="text/javascript" src="js/header.js"></script>
+<%--      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>--%>
+      <link href="css/header.css" rel="stylesheet"/>
+      <link href="css/footer.css" rel="stylesheet"/>
   </head>
   <body>
       <%@ include file="header.jsp"%>
